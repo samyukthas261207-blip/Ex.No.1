@@ -121,11 +121,19 @@ ChatGPT: Explained the basic concepts of Generative AI, including data, AI model
 
 Google Gemini: Explained the fundamentals of Generative AI with clear definitions, different types of generated content, and practical examples of text, images, audio, and video generation.
 
+
+<img width="712" height="651" alt="image" src="https://github.com/user-attachments/assets/dc685cbe-f398-44e7-89aa-847c601e2362" />
+
+
 2. Major Architectures of Generative AI
    
 ChatGPT: Explained major architectures such as Transformers, GANs, VAEs, and Diffusion Models. Described Transformer components, including tokens, embeddings, positional encoding, self-attention, encoders, and decoders.
 
 Google Gemini: Explained different Generative AI architectures using diagrams and examples. Focused on the Transformer architecture and its working process, along with a comparison of other architectures.
+
+
+<img width="723" height="725" alt="image" src="https://github.com/user-attachments/assets/416183c9-b818-4b51-aad5-4fc04d3735c4" />
+
 
 3. Applications of Generative AI
    
@@ -133,17 +141,30 @@ ChatGPT: Described the applications of Generative AI in education, healthcare, b
 
 Google Gemini: Explained how Generative AI is used in different industries and how it generates text, images, audio, video, and computer code. Presented its applications through a visual mind map.
 
+
+<img width="761" height="682" alt="image" src="https://github.com/user-attachments/assets/46136855-18fe-40b1-a240-8192d3df259d" />
+
+
 4. Impact of Scaling in Large Language Models (LLMs)
    
 ChatGPT: Explained how increasing model parameters, training data, computing power, and training time can influence LLM performance. Discussed scaling laws, benefits, costs, and energy consumption.
 
 Google Gemini: Described the importance of scaling in LLMs and how additional training resources can improve language understanding, content generation, and reasoning. Included conceptual diagrams and graphs.
 
+
+<img width="695" height="401" alt="image" src="https://github.com/user-attachments/assets/f09a56fc-7ccb-4bdd-aa4b-ef5f72c768ac" />
+
+
 5. How Large Language Models (LLMs) Are Built
    
 ChatGPT: Explained how LLMs are developed using data collection, preprocessing, Transformer architecture, training, and fine-tuning. Described the key components and working principles of LLMs.
 
 Google Gemini: Explained the development process of LLMs through simple descriptions and flowcharts. Covered training data, tokenization, model training, and fine-tuning with practical examples.
+
+
+
+<img width="750" height="682" alt="image" src="https://github.com/user-attachments/assets/771345b8-b554-4cd4-a298-b32108065d1a" />
+
 
 ## COMPARISION TABLE
 # Comparison of ChatGPT and Google Gemini
